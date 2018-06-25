@@ -1,0 +1,31 @@
+{
+  "name": "blog-api-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --exit",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JasminTrotter/blog-api-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JasminTrotter/blog-api-challenge/issues"
+  },
+  "homepage": "https://github.com/JasminTrotter/blog-api-challenge#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "mongoose": "^5.1.6",
+    "morgan": "^1.9.0",
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
